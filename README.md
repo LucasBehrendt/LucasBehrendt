@@ -1,6 +1,6 @@
 ## Hi there, I'm Lucas Behrendt <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm a motivated and enthusiastic junior software developer with ongoing studies in Full Stack Development at Code Institute.
+I'm a motivated and enthusiastic junior software developer working at Alfa eCare, with completed studies in Full Stack Development at Code Institute.
 
 As a (relatively) young career changer with 10+ years of work experience, I am eager to get in to the world of coding and have a hunger for developing my newfound skills. I am a team player with solid communication skills adept in project management.
 
